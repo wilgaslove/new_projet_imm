@@ -80,3 +80,6 @@ this.http.get('http://votre-api-url.com/api/endpoint').subscribe(
 Assurez-vous de gérer les erreurs de manière appropriée dans votre application, soit en affichant un message d'erreur à l'utilisateur, soit en journalisant les erreurs pour le débogage.
 
 Avec ces étapes en place, votre application Angular devrait être capable de communiquer avec votre API Laravel sans rencontrer de problèmes CORS. N'oubliez pas de configurer correctement les routes et les contrôleurs dans votre API Laravel pour répondre aux demandes provenant de votre application Angular.
+
+
+## pourquoi mes push ne sont pas des contribution ? 
